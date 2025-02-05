@@ -1,6 +1,6 @@
 # Excel_Dashboards
  # 📊 Sales Dashboard
-![image](https://github.com/user-attachments/assets/8b7323e8-7e48-44e5-933c-5664e6a8276a)
+![image](https://github.com/user-attachments/assets/9b0227d3-faaa-4bcf-8c15-2eb9c52548de)
 ## 🎯 Purpose
 This sales dashboard provides a structured overview of sales performance, enabling business users to track key metrics, analyze trends, and make data-driven decisions.
 
